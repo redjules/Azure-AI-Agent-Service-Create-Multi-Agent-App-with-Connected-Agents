@@ -1,6 +1,6 @@
 # Description
 
-I will create a ulti-agetn app with connected agents using Azure AI Agent Service
+I will create a multi-agent app with connected agents using Azure AI Agent Service
 
 # Steps
 
