@@ -32,11 +32,7 @@ Now the orchestrator agent:
 
 ![Alt text](assets/orc.png)
 
-Click Connected agents
-
-![Alt text](assets/7.png)
-
-Same for the Quiz Generator:
+Click Connected agents. Same for the Quiz Generator.
 
 We have 2 agents connected to the orchestrator
 
